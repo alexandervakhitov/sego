@@ -3,7 +3,7 @@
 # Copyright (c) 2018 Alexander Vakhitov <alexander.vakhitov@gmail.com>
 # Redistribution and use is allowed according to the terms of the GPL v 3 license.
 
-cmake_minimum_required(VERSION 3.6)
+cmake_minimum_required(VERSION 3.1)
 project(sego)
 
 set(CMAKE_CXX_STANDARD 11)

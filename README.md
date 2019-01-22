@@ -11,8 +11,12 @@ OpenCV 3.0 and higher
 Eigen 3.1 and higher
 
 To download & build:
+
 git clone https://github.com/alexander-vakhitov/sego.git
+
 cd sego
+
 cmake .
+
 make
 

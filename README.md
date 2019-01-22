@@ -1,4 +1,4 @@
-#H1 Stereo egomotion (SEGO) library
+# Stereo egomotion (SEGO) library
 
 Contains a method to find SE3 transform between two poses of a rectified stereo rig. For a method description, please see the paper
  "Stereo relative pose from line and point feature triplets" by A. Vakhitov, V. Lempitsky and Y. Zheng, ECCV 2018
@@ -12,8 +12,8 @@ Prerequisities:
 
 To download & build:
 
-git clone https://github.com/alexander-vakhitov/sego.git
-cd sego
-cmake .
+git clone https://github.com/alexander-vakhitov/sego.git  
+cd sego  
+cmake .  
 make
 

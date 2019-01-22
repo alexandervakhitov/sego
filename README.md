@@ -1,5 +1,5 @@
 Stereo egomotion (SEgo) library.
-Contains a method to relative pose of a rectified stereo rig according to the paper
+Contains a method to find SE3 transform between two poses of a rectified stereo rig. For a method description, please see the paper
  "Stereo relative pose from line and point feature triplets" by A. Vakhitov, V. Lempitsky and Y. Zheng, ECCV 2018
 
 The code compiles to a library. You can see an example of its usage in main.cpp.
